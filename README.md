@@ -5,4 +5,4 @@
 The weather app with Yandex API
 
 ![preview](weather_master.png)
-![preview](weather_detail.png)
+![preview](wether_detail.png)
